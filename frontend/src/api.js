@@ -15,8 +15,8 @@ const getBaseUrl = () => {
     return 'http://127.0.0.1:8000';
   }
 
-  // Production fallback (e.g. reverse proxy or direct)
-  return '/api';
+  // Default production Render backend URL
+  return 'https://innefu-rag-backend.onrender.com';
 };
 
 const BASE_URL = getBaseUrl();
