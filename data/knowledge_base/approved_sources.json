@@ -1,0 +1,127 @@
+{
+  "project": "Innefu Labs Enterprise RAG Platform",
+  "snapshot_date": "2026-11-10",
+  "approved_sources": [
+    {
+      "id": "src-home",
+      "url": "https://innefu.com/",
+      "title": "Innefu Labs - Official Homepage",
+      "category": "corporate",
+      "products": ["Innefu Overview", "Prophecy GPT"]
+    },
+    {
+      "id": "src-about",
+      "url": "https://innefu.com/about-us/",
+      "title": "About Us & Leadership - Innefu Labs",
+      "category": "leadership_and_history",
+      "products": ["Company Journey", "Founders"]
+    },
+    {
+      "id": "src-products",
+      "url": "https://innefu.com/products/",
+      "title": "Products Catalogue - Innefu Labs",
+      "category": "portfolio",
+      "products": ["Portfolio Overview"]
+    },
+    {
+      "id": "src-sarvagata",
+      "url": "https://innefu.com/products/sarvagata/",
+      "title": "Sarvagata AI - Sovereign Agentic AI Platform",
+      "category": "product_deep_dive",
+      "products": ["Sarvagata AI"]
+    },
+    {
+      "id": "src-prophecy-guardian",
+      "url": "https://innefu.com/products/prophecy-guardian/",
+      "title": "Prophecy Guardian - Intelligence Fusion Centre",
+      "category": "product_deep_dive",
+      "products": ["Prophecy Guardian"]
+    }
+  ],
+  "products_taxonomy": [
+    {
+      "name": "Sarvagata AI",
+      "family": "AI Platforms",
+      "canonical_url": "https://innefu.com/products/sarvagata/",
+      "description": "Air-gapped sovereign agentic AI platform designed for on-premise use in secure environments."
+    },
+    {
+      "name": "Prophecy Guardian",
+      "family": "Intelligence Fusion and Policing",
+      "canonical_url": "https://innefu.com/products/prophecy-guardian/",
+      "description": "Integrated Intelligence Fusion Centre transforming complex data (SIGINT, OSINT, TECHINT, SATINT) into actionable intelligence."
+    },
+    {
+      "name": "Prophecy Alethia",
+      "family": "Intelligence Fusion and Policing",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "AI-powered predictive-policing platform for crime prevention, GIS crime mapping and dynamic crime dashboards."
+    },
+    {
+      "name": "Prophecy Eagle I",
+      "family": "Financial Intelligence and Enterprise Security",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "AI-driven financial fraud detection and investigation system with synthetic identity identification and link analysis."
+    },
+    {
+      "name": "Argus",
+      "family": "Digital Forensics and Cyber Response",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "Digital forensics platform for unifying evidence in investigations with suspect movement and link analysis."
+    },
+    {
+      "name": "RapiDFIR",
+      "family": "Digital Forensics and Cyber Response",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "Digital Forensics and Incident Response platform for faster cyber threat detection, investigation and response."
+    },
+    {
+      "name": "AI Vision",
+      "family": "Surveillance and Analytics",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "AI-powered security surveillance system for image and video analytics including face recognition and crowd analysis."
+    },
+    {
+      "name": "Innsight",
+      "family": "Open-Source and Communications Intelligence",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "OSINT/network intelligence platform for monitoring global threats, 360-degree profiling and network analysis."
+    },
+    {
+      "name": "InteleLinx",
+      "family": "Open-Source and Communications Intelligence",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "Telecom data analytics platform for investigative intelligence supporting CDR/IPDR, IMEI and tower analysis."
+    },
+    {
+      "name": "Prophecy GPT",
+      "family": "AI Platforms",
+      "canonical_url": "https://innefu.com/",
+      "description": "AI-driven agentic workflow assistant and offline on-premise LLM for intelligence operations."
+    },
+    {
+      "name": "Speech to Text",
+      "family": "Open-Source and Communications Intelligence",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "Multilingual security communications transcription system with noise reduction and audio enhancement."
+    },
+    {
+      "name": "AuthShield",
+      "family": "Financial Intelligence and Enterprise Security",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "Multi-factor authentication platform featuring fingerprint scans, one-touch login and physical tokens."
+    },
+    {
+      "name": "Advisionary",
+      "family": "Financial Intelligence and Enterprise Security",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "Ad-intelligence and device-tracking solution with geolocation intelligence and pattern detection."
+    },
+    {
+      "name": "IR Management System",
+      "family": "Investigation Case Management",
+      "canonical_url": "https://innefu.com/products/",
+      "description": "Smart dossier management and investigation data analytics platform for organizing entities, events and timelines."
+    }
+  ]
+}
